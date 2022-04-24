@@ -27,7 +27,8 @@
         "react-uuid": "^1.0.2",
         "uuid": "^8.3.2",
         "uuidv4": "^6.2.13",
-        "yarn": "^1.22.18"
+        "yarn": "^1.22.18",
+        "node": "^17.8.0"
     },
     "devDependencies": {
         "@vitejs/plugin-react": "^1.0.7",
